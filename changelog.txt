@@ -1,0 +1,12 @@
+PROJECT MANAGER - CHANGELOG
+============================
+
+[0.1.0] — 2026-09
+
+AÑADIDO:
+- Directorio de proyecto creado.
+
+NOTAS:
+- Proyecto en fase inicial.
+- Directorio vacío sin archivos, README ni historial git.
+- Sin funcionalidades documentadas aún.
